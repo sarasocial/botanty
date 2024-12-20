@@ -7,7 +7,7 @@ because botany is the branch of biology that focuses on the scientific study of 
 
 and since   gardens are spaces wher ethe rules of botany are applied.
 
-so you make a digital garden in eleventy. and tend to it with botany. or botanty. get it ?do you get it
+so you create a digital garden in eleventy. and apply the rules of botany to maintain it. or botanty. get it ?do you get it
 
 do you get it yet . arent i clever please tell me that i;m a clever gir,l
 
