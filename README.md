@@ -1,5 +1,5 @@
 ## about botanty 🌱
-botanty ~~is~~ (hopefully, if i can figure it out, will be) a framework for building digital gardens with eleventy, with the aim of providing a simple set of tools to help you dynamically manage the creation and placement of hyperlinks across the pages of your website on build, both individually and en masse
+botanty ~~is~~ *(hopefully, if i can figure it out, will be)* a framework for building digital gardens with eleventy, with the aim of providing a simple set of tools to help you dynamically manage the creation and placement of hyperlinks across the pages of your website on build, both individually and en masse
 
 the name is a play on botany and eleventy. get it?
 
